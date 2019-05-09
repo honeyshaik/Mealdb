@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/favuorite"
+        app:showAsAction="never"
+        android:id="@+id/favourite"/>
+
+    <item
+        android:title="@string/category_string"
+        android:id="@+id/name">
+      <menu>
+          <item
+              android:id="@+id/Beef"
+              android:title="@string/beef"
+              />
+          <item
+              android:id="@+id/Chicken"
+              android:title="@string/chicken"
+              />
+          <item
+              android:id="@+id/Desert"
+              android:title="@string/desert"
+              />
+          <item
+              android:id="@+id/Lamb"
+              android:title="@string/lamb"
+              />
+          <item
+              android:id="@+id/Pasta"
+              android:title="@string/pasta"
+              />
+          <item
+              android:id="@+id/Seafood"
+              android:title="@string/seafood"
+              />
+          <item
+              android:id="@+id/Starter"
+              android:title="@string/starter"
+              />
+      </menu>
+
+    </item> <item
+    android:title="@string/country"
+    android:id="@+id/countrty">
+    <menu>
+        <item
+            android:id="@+id/American"
+            android:title="@string/american"
+            />
+        <item
+            android:id="@+id/British"
+            android:title="@string/british"
+            />
+        <item
+            android:id="@+id/Canadian"
+            android:title="@string/canadian"
+            />
+        <item
+            android:id="@+id/Chinese"
+            android:title="@string/chinese"
+            />
+        <item
+            android:id="@+id/Egyptian"
+            android:title="@string/egyptian"
+            />
+        <item
+            android:id="@+id/French"
+            android:title="@string/french"
+            />
+        <item
+            android:id="@+id/Greek"
+            android:title="@string/greek"
+            />
+    </menu>
+
+</item>
+
+
+
+    <item
+        android:title="@string/sign_out_string"
+        android:id="@+id/signout"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+</menu>

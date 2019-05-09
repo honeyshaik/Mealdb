@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889819310311",
+    "firebase_url": "https://mealdb-1556432586214.firebaseio.com",
+    "project_id": "mealdb-1556432586214",
+    "storage_bucket": "mealdb-1556432586214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889819310311:android:59784ebfb89a9588",
+        "android_client_info": {
+          "package_name": "com.example.dell.mealdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889819310311-i4hi48litgljhgp261r1qkbq899qcbqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.mealdb",
+            "certificate_hash": "ea837f525eb6dfb22317471a733679a7ce076433"
+          }
+        },
+        {
+          "client_id": "889819310311-a7cjr3vimqbrmdb6u08celb9vqr01n47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAza6v_XaIwXIzyjJXpD2Mx0XYzJLbUeas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889819310311-a7cjr3vimqbrmdb6u08celb9vqr01n47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

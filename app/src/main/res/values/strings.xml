@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MealDb</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="loginlogodesc">login_logo_desc</string>
+    <string name="Email">email_hint</string>
+    <string name="reg_confirm_pass_text">Confirm Password</string>
+    <string name="reg_btn_text">Register</string>
+    <string name="reg_login_text">Login</string>
+    <string name="reg_pass_text">Password</string>
+    <string name="login_logo_desc">login_logo_desc</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="login_reg_btn_text">Register</string>
+    <string name="category_string">Category</string>
+    <string name="country_string">Country</string>
+    <string name="sign_out_string">SignOut</string>
+    <string name="browse_by_string">Browse</string>
+    <string name="latest_string">Latest</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="desert">Desert</string>
+    <string name="lamb">Lamb</string>
+    <string name="pasta">Pasta</string>
+    <string name="seafood">Seafood</string>
+    <string name="starter">Starter</string>
+    <string name="country">Country</string>
+    <string name="american">American</string>
+    <string name="british">British</string>
+    <string name="canadian">Canadian</string>
+    <string name="chinese">Chinese</string>
+    <string name="egyptian">Egyptian</string>
+    <string name="french">French</string>
+    <string name="greek">Greek</string>
+    <string name="favuorite">Favuorite</string>
+
+</resources>
